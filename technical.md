@@ -1,3 +1,9 @@
+---
+layout: default
+title: "How QorVault Actually Works — and Where It Doesn't"
+description: "Architecture, evaluation, and honest failure modes of a civic RAG system built by a non-developer with AI coding agents"
+---
+
 # How QorVault Actually Works — and Where It Doesn't
 
 ### Architecture, evaluation, and honest failure modes of a civic RAG system built by a non-developer with AI coding agents
