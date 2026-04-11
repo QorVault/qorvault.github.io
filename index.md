@@ -1,9 +1,8 @@
-# The Person Who Always Saw the Fix Can Finally Build It
-
-### How an Air Force veteran and school board director — with a degree in network security but zero coding ability — built a civic AI system from scratch using AI as his translator
-
 ---
-
+layout: default
+title: "The Person Who Always Saw the Fix Can Finally Build It"
+description: "How an Air Force veteran and school board director built a civic AI system from scratch"
+---
 I once built a network bypass out of a battery-powered wireless router, a cell phone hotspot, and an RJ-45 cable.
 
 I was a home security technician at Comcast. The company had launched the product line in 2011 and there weren't many of us trained on it, so we'd be booked solid all day with installations. The problem was that the security router needed an internet connection to pull its configuration and run updates, and the internet tech — a different person, doing a different job — wasn't always done yet. So I'd sit there waiting, watching my schedule stack up, because two independent workflows had an unnecessary dependency between them.
