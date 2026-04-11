@@ -4,12 +4,6 @@ title: "How QorVault Actually Works — and Where It Doesn't"
 description: "Architecture, evaluation, and honest failure modes of a civic RAG system built by a non-developer with AI coding agents"
 ---
 
-# How QorVault Actually Works — and Where It Doesn't
-
-### Architecture, evaluation, and honest failure modes of a civic RAG system built by a non-developer with AI coding agents
-
----
-
 I published [a post recently](https://blog.qorvault.com) about why and how I built QorVault — a system that makes twenty years of Kent School District public board records searchable via AI with mandatory source citations. That post told the human story: the frustration, the decision to build, the translator metaphor for AI coding tools.
 
 This post is the technical companion. It's for practitioners who read the first post and thought: "okay, but how does it actually work, and how well does it work?" I'll answer both questions honestly, including the parts where it doesn't work well at all.
